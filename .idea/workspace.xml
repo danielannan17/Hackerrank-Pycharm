@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="7abcc3a9-7453-414c-b916-afe58df434f2" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AI - Statistics and Machile Learning/Easy/Stock Predictions/solution.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/AI - Statistics and Machile Learning/Easy/Stock Predictions/solution.ipynb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,7 +15,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -63,19 +64,6 @@
               <item name="Hackerrank Pycharm" type="b2602c69:ProjectViewProjectNode" />
               <item name="Hackerrank Pycharm" type="462c0819:PsiDirectoryNode" />
               <item name="AI - Statistics and Machile Learning" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Hackerrank Pycharm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Hackerrank Pycharm" type="462c0819:PsiDirectoryNode" />
-              <item name="AI - Statistics and Machile Learning" type="462c0819:PsiDirectoryNode" />
-              <item name="Easy" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Hackerrank Pycharm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Hackerrank Pycharm" type="462c0819:PsiDirectoryNode" />
-              <item name="AI - Statistics and Machile Learning" type="462c0819:PsiDirectoryNode" />
-              <item name="Easy" type="462c0819:PsiDirectoryNode" />
-              <item name="Basic Statistics Warmup" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
